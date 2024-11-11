@@ -1,4 +1,4 @@
-Channel: [Yog's Channel](https://t.me/+FtombnkhVH4wYzll)
+Channel: [Airdrop Hunter](https://t.me/+FtombnkhVH4wYzll)
 
 Bot: [KoniStoryBot](https://t.me/KoniStory_bot/app?startapp=we5dnTIIt)
 
