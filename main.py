@@ -62,7 +62,7 @@ class TheOrder:
         try:
             payload = {
                 "address": address,
-                "referralCode": "C20WJXJv8",
+                "referralCode": "we5dnTIIt",
                 "initData": init_data
             }
             
